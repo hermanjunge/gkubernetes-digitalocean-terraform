@@ -1,4 +1,4 @@
-# https-gkubernetes-digitalocean-terraform
+# gkubernetes-digitalocean-terraform
 Just for Poc
 
 <html>
